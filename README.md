@@ -1,5 +1,9 @@
 # wangxs.github.io
-
+<font color=red>我是红色</font>
+<font color=#008000>我是绿色</font>
+<font color=Blue>我是蓝色</font>
+<font size=5>我是尺寸</font>
+<font face=”黑体” color=green size=5>我是黑体，绿色，尺寸为5</font>
 ### 测试 test
 ```C++
 
