@@ -2,9 +2,16 @@
 ## Hello world
 ### 测试 test
 ```C++
-    fun(){
-      test();
-    }
+
+fun(){
+  test();
+}
+    
+#include  <stdio.h>`
+int main(void)`
+{
+    printf("Hello world\n");
+}
 ```
 
 ```python3
