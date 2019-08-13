@@ -2,9 +2,9 @@
 ## Hello world
 ### 测试 test
 '''
-  fun(){
-    test();
-  }
+    fun(){
+      test();
+    }
 '''
 
 ```
