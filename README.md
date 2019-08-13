@@ -1,13 +1,13 @@
 # wangxs.github.io
 ## Hello world
 ### 测试 test
-```
+```C++
     fun(){
       test();
     }
 ```
 
-```
+```python
     function fun(){
          echo "这是一句非常牛逼的代码";
     }
