@@ -1,11 +1,11 @@
 # wangxs.github.io
 ## Hello world
 ### 测试 test
-'''
+```
     fun(){
       test();
     }
-'''
+```
 
 ```
     function fun(){
@@ -15,7 +15,7 @@
 ```
 
 
-'git pull --rebase'
+`git pull --rebase`
 *加粗*
 **斜体**
 ***加粗斜体***
