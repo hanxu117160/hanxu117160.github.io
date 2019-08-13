@@ -1,18 +1,18 @@
 # wangxs.github.io
 ## Hello world
 ### 测试 test
-(''')
+'''
   fun(){
     test();
   }
-(''')
+'''
 
-(```)
+```
     function fun(){
          echo "这是一句非常牛逼的代码";
     }
     fun();
-(```)
+```
 
 
 'git pull --rebase'
